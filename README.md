@@ -2,7 +2,7 @@
 
 **`✨webWizard✨`**
 
-I am a recent graduate in computer science, enthusiastic and passionate about web development. Throughout my academic journey, I have cultivated a deep interest in creating innovative web solutions and leveraging technology to enhance user experiences. I am eager to apply my skills and knowledge to contribute meaningfully to the dynamic field of web development.
+I'm a fresh grad computer science student with a heart for web development.
 
 ---
 
