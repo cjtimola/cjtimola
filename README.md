@@ -17,3 +17,5 @@ I'm a fresh computer science graduate with a passion for web development. Now, I
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
 <br>
+<br>
+<br>
