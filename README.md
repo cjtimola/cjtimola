@@ -4,7 +4,7 @@
 
 <br>
 
-### I'm a fresh grad computer science student with a heart for web development.
+I'm a fresh grad computer science student with a heart for web development. And now I'm excited to explore the endless possibilities in the world of web development and eager to make a positive impact through my work."
 
 <br>
 
