@@ -22,7 +22,4 @@ I'm a fresh computer science graduate with a passion for web development. Now, I
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjtimola&show_icons=true&theme=gruvbox)
-
-<br>
-<br>
+![Cjtimola's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjtimola&show_icons=true&theme=gruvbox)
