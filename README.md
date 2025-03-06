@@ -2,7 +2,7 @@
 
 **`✨webWizard✨`**
 
-I'm a fresh computer science graduate with a passion for web development. Now, I'm excited to explore the endless possibilities in the world of web development and am eager to make a positive impact through my work.
+I'm a fresh computer science graduate with a passion for web development. Now, I'm excited to explore the endless possibilities in the world of IT and am eager to make a positive impact through my work.
 
 ---
 
